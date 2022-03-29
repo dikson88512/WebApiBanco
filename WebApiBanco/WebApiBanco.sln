@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiBanco", "WebApiBanco.csproj", "{24FB2E33-6FA8-4AF0-94AA-6B8686EBDC4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiBanco.Data", "..\WebApiBanco.Data\WebApiBanco.Data.csproj", "{374B3569-9C44-4AC3-B212-6A5939038C30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24FB2E33-6FA8-4AF0-94AA-6B8686EBDC4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24FB2E33-6FA8-4AF0-94AA-6B8686EBDC4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24FB2E33-6FA8-4AF0-94AA-6B8686EBDC4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24FB2E33-6FA8-4AF0-94AA-6B8686EBDC4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{374B3569-9C44-4AC3-B212-6A5939038C30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{374B3569-9C44-4AC3-B212-6A5939038C30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{374B3569-9C44-4AC3-B212-6A5939038C30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{374B3569-9C44-4AC3-B212-6A5939038C30}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4C4FE9F-56FD-428A-9E2A-C321452E27A2}
+	EndGlobalSection
+EndGlobal
