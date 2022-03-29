@@ -1,0 +1,9 @@
+C:\Dikson\ProyectosC#\WebApiBanco\WebApiBanco.Data\bin\Debug\netcoreapp3.1\WebApiBanco.Data.deps.json
+C:\Dikson\ProyectosC#\WebApiBanco\WebApiBanco.Data\bin\Debug\netcoreapp3.1\WebApiBanco.Data.dll
+C:\Dikson\ProyectosC#\WebApiBanco\WebApiBanco.Data\bin\Debug\netcoreapp3.1\WebApiBanco.Data.pdb
+C:\Dikson\ProyectosC#\WebApiBanco\WebApiBanco.Data\obj\Debug\netcoreapp3.1\WebApiBanco.Data.csproj.AssemblyReference.cache
+C:\Dikson\ProyectosC#\WebApiBanco\WebApiBanco.Data\obj\Debug\netcoreapp3.1\WebApiBanco.Data.AssemblyInfoInputs.cache
+C:\Dikson\ProyectosC#\WebApiBanco\WebApiBanco.Data\obj\Debug\netcoreapp3.1\WebApiBanco.Data.AssemblyInfo.cs
+C:\Dikson\ProyectosC#\WebApiBanco\WebApiBanco.Data\obj\Debug\netcoreapp3.1\WebApiBanco.Data.csproj.CoreCompileInputs.cache
+C:\Dikson\ProyectosC#\WebApiBanco\WebApiBanco.Data\obj\Debug\netcoreapp3.1\WebApiBanco.Data.dll
+C:\Dikson\ProyectosC#\WebApiBanco\WebApiBanco.Data\obj\Debug\netcoreapp3.1\WebApiBanco.Data.pdb
