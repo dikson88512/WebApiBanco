@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wcBDqooIRFa+HvSwv9aJJrb8Jy7KvDmrDrpmc2U4tPnF3amKgEXn9xYN/8uoRUKnn8JRX45GXCW0TZFmfV2Vmw==",
+  "dgSpecHash": "OZFrhcuPwl7e+/lmiBNPBtwPIu8cU9onIxNj3UxZ30aJdIPdhytSlwMqTZnZHWacFCUZEdUt6qc7PwwVTFV4uA==",
   "success": true,
-  "projectFilePath": "C:\\Dikson\\ProyectosC#\\WebApiBanco\\WebApiBanco.Data\\WebApiBanco.Data.csproj",
+  "projectFilePath": "C:\\Dikson\\ProyectosC#\\UploadReporte\\WebApiBanco\\WebApiBanco.Data\\WebApiBanco.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",

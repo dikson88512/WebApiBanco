@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using System.Globalization;
 using WebApiBanco.Data;
 using WebApiBanco.Data.Repositorio;
 
@@ -26,6 +27,7 @@ namespace WebApiBanco
             services.AddSingleton<IClienteRepositorio, ClienteRepositorio>();
             services.AddSingleton<ICuentaRepositorio, CuentaRepositorio>();
             services.AddSingleton<IMovimientoRepositorio, MovimientoRepositorio>();
+            services.AddSingleton<IReporteRepositorio, ReporteRepositorio>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -35,6 +37,9 @@ namespace WebApiBanco
             {
                 app.UseDeveloperExceptionPage();
             }
+            var cultureInfo = new CultureInfo("es-EC");
+            cultureInfo.DateTimeFormat.ShortDatePattern = "dd/MM/yyyy";
+            cultureInfo.DateTimeFormat.FullDateTimePattern = "dd/MM/yyyy H:mm:ss";
 
             app.UseHttpsRedirection();
 
